@@ -1,0 +1,16 @@
+PODS:
+  - SwiftDemo (0.1.0)
+
+DEPENDENCIES:
+  - SwiftDemo (from `../`)
+
+EXTERNAL SOURCES:
+  SwiftDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SwiftDemo: 1fe770056cc99222119ff8f96335ccc0fcaf0e96
+
+PODFILE CHECKSUM: 639fda05b1ea3d613adf0230de7f998a78604e0e
+
+COCOAPODS: 1.9.1
